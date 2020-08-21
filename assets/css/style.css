@@ -2,6 +2,18 @@ body {
     font-family: 'roboto slab', serif;
 }
 
+.navbar {
+    background-color: #660066;
+}
+
+.lastwork {
+    background-color: #660066;
+}
+
+.footer {
+    background-color: #660066 ;
+}
+
 
 .navmenu {
     float: right;
