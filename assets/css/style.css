@@ -26,3 +26,16 @@ body {
 .card-title {
     font-weight: 600;
 }
+
+#bgfoto {
+    height: 35rem;
+    background-size: cover;
+}
+
+.yosoy {
+    padding-top: 10rem;   
+}
+
+.yosoytext{
+    text-decoration-line: underline;
+}
