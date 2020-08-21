@@ -6,3 +6,11 @@ body {
 .navmenu {
     float: right;
 }
+
+.card-text {
+    font-weight: 400;
+}
+
+.card-title {
+    font-weight: 600;
+}
