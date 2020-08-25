@@ -3,17 +3,20 @@ body {
 }
 
 .navbar {
-    background-color: #660066;
+    background-color: #485E8C;
+}
+
+.textosobremi {
+    background-color: #349985;
 }
 
 .lastwork {
-    background-color:#ff4500;
+    background-color:#399B88;
 }
 
 .footer {
-    background-color: #660066 ;
+    background-color: #485E8C ;
 }
-
 
 .navmenu {
     float: right;
